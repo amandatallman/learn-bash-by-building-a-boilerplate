@@ -205,3 +205,10 @@ cd project
 ls --color=auto
 mv website website-boilerplate
 ls --color=auto
+copy --help
+copy -help]
+copy -help
+copy help
+copy --help
+--help
+cp --help
