@@ -63,3 +63,4 @@ __vsc_prompt_cmd_original
 cd website
 ls --color=auto
 echo hello website
+touch index.html
