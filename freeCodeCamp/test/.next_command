@@ -204,3 +204,4 @@ cd ../..
 cd project
 ls --color=auto
 mv website website-boilerplate
+ls --color=auto
