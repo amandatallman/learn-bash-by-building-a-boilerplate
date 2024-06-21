@@ -102,3 +102,4 @@ __vsc_prompt_cmd_original
 cd images
 ls --color=auto
 cd ..
+ls --color=auto
