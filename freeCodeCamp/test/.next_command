@@ -71,3 +71,4 @@ touch .gitignore
 ls --color=auto
 command --help
 ls --color=auto --help
+ls --color=auto -a
