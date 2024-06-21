@@ -212,3 +212,9 @@ copy help
 copy --help
 --help
 cp --help
+cp -r toms-website
+cp -r projects toms-website
+cp -r website toms-website
+website
+cd website
+cp -r website-boilerplate toms-website
