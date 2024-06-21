@@ -79,3 +79,4 @@ touch footer.jpeg
 ls --color=auto
 touch robot.font
 touch roboto.font
+touch lato.font
